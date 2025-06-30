@@ -1,4 +1,4 @@
-# 💸 Shezi Bank – C++ Savings Account Simulator
+# 💸 Mpilo Bank – C++ Savings Account Simulator
 
 A console-based savings account simulator built in C++ to practice object-oriented programming, inheritance, and simple finance logic.
 
